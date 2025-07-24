@@ -3,6 +3,8 @@ Simple Banking Management System – Java & MySQL
 A console-based Java application that simulates basic banking operations like account creation, login, and secure storage using a MySQL database via JDBC.
 
 <img width="808" height="1348" alt="image" src="https://github.com/user-attachments/assets/72006775-52ee-4b52-b8c7-a2749e78192e" />
+<img width="1520" height="1526" alt="image" src="https://github.com/user-attachments/assets/9f143bc4-e2d2-4e86-bbb2-531954625788" />
+
 
 Features
 ✅ Create New Bank Accounts (with PIN, Name, Age)
